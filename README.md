@@ -54,6 +54,7 @@ with the correct permissions.
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 - [kubectx](https://github.com/ahmetb/kubectx#installation)
 - [helm, version 3](https://helm.sh/docs/using_helm/)
+- [shellcheck](https://github.com/koalaman/shellcheck#installing)
 
 ### GCP IAM Requirements
 
